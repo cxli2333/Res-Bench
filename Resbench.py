@@ -6,7 +6,7 @@ import re
 import tempfile
 from ..smp import *
 
-class Mybench(ImageBaseDataset):
+class Res-Bench(ImageBaseDataset):
     TYPE = 'VQA'
     
     DATASET_URL = {
